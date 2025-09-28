@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Olá, eu me chamo Gustavo Schimit</h1>
 
-<!--
-**gugu-ximia/gugu-ximia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Eu sou um estudante do ensino médio, apaixonado por programar e aprender coisas novas</h3>
+<br>
 
-Here are some ideas to get you started:
+## Conhecimentos:
+* `HTML/CSS` - **(Intermediário)**
+* `JavaScript` - **(Básico/Intermediário)**
+* `Node.js` - **(Básico/Intermediário)**
+* `Python` - **(Básico)**
+* `TypeScript` - **(Básico)**
+  
+## Cursos:
+* **Aprender e Crescer** - **(Sudotec)**
+* **Robótica** - **(Colégio Leonardo da Vinci)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato:
+* **E-mail:** **schimit.gustavo.silva@gmail.com**
+* **Telefone:** **(46) 99977-6184**
+* **LinkedIn:** [https://www.linkedin.com/in/gustavo-schimit-rezende-da-silva-6b0312359](https://www.linkedin.com/in/gustavo-schimit-rezende-da-silva-6b0312359)
