@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu me chamo Gustavo Schimit</h1>
+<h1 align="center">Olá, eu me chamo Gustavo</h1>
 
 <h3 align="center">Eu sou um estudante do ensino médio, apaixonado por programar e aprender coisas novas</h3>
 <br>
