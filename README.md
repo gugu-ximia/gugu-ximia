@@ -4,15 +4,13 @@
 <br>
 
 ## Conhecimentos:
-* `HTML/CSS` - **(Intermediário)**
+* `angular` - **(Intermediário)**
 * `JavaScript` - **(Básico/Intermediário)**
 * `Node.js` - **(Básico/Intermediário)**
-* `Python` - **(Básico)**
-* `TypeScript` - **(Básico)**
+* `PostgreSQL` - **(Intermediário)**
   
 ## Cursos:
 * **Aprender e Crescer** - **(Sudotec)**
-* **Robótica** - **(Colégio Leonardo da Vinci)**
 
 ## Contato:
 * **E-mail:** **schimit.gustavo.silva@gmail.com**
