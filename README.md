@@ -4,7 +4,7 @@
 <br>
 
 ## Conhecimentos:
-* `angular` - **(Intermediário)**
+* `angular` - **(Básico/Intermediário)**
 * `JavaScript` - **(Básico/Intermediário)**
 * `Node.js` - **(Básico/Intermediário)**
 * `PostgreSQL` - **(Intermediário)**
